@@ -583,3 +583,8 @@ h6 {
 /* .footer-link_social {
     display: flex;
 } */
+
+.footer_h6 {
+    margin-top: 25px;
+    text-align: center;
+}
