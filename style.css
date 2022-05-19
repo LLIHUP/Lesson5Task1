@@ -589,3 +589,15 @@ h6 {
     margin-top: 25px;
     text-align: center;
 }
+
+button:active {
+    zoom: 0.99;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
+
+.subscribe:active {
+    zoom: 0.99;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+}
